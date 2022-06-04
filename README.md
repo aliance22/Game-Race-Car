@@ -25,3 +25,12 @@
    
 **2. Unique Value**
     <p> "Game Race Car" adalah game yang membutuhkan keterampilan dan singkronisasi kecepatan tangan. karen pemain harus berbelok ke kiri atau ke kanan untuk menghindari banyaknya mobil lawan yang akan menabrak kita. <p>
+       
+**3. Genre**
+    <p> Kategori "Game Race Car" adalah ber Genre Balapan atau Race <p>
+       
+**4. Target Audience**
+    <p> "Game Race Car" merupakan game yang dapat dimainkan oleh golongan usia anak anak hingga dewasa <p>
+       
+**5. Story**
+    <p> "Game Race Car" 
