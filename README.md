@@ -34,3 +34,6 @@
        
 **5. Story**
     <p> "Game Race Car" Diawali mobil yang ingin balapan tetapi dihalangi oleh musuh musuh nya agar mobil tersebut tidak bisa mencapai garis finis. sehingga kita harus menyetir mobil tersebut agar dapat menghindari halangan halangan yang lawan berikan agar kita dapat memenangkan game tersebut. <p>
+       
+**6. Gameplay**
+    <p> Pemain diminta untuk membantu mobil tersebut balapan di jalan agar bisa mencapai garis finis, dengan cara pemain akan diminta untuk menyetir mobil tersebut dijalan yang lurus dengan berbelok ke kiri atau ke kanan agar dapat menghindari tabrakan dari mobil mobil lawan sampai waktu yang ada habis <p>
