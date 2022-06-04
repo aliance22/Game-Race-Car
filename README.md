@@ -21,4 +21,7 @@
 **GAME DESIGN DOCUMENT**
 
 **1. High Concept**
-<p> Game Race Car adalah game dimana pemain harus menyetir mobil untuk drag time atau balapan mobil di jalan yang lurus berpacuan waktu, sekaligus pemain harus menghindari halangan yang di buat oleh mobil lawan untuk menggagalkan kita mencapai garis finis. Cara mengatasi gangguan mobil musuh yang ingin menabrak kita, kita harus menghindarinya dengan berbelok ke kiri atau ke kanan. <p>
+    <p> Game Race Car adalah game dimana pemain harus menyetir mobil untuk drag time atau balapan mobil di jalan yang lurus berpacuan waktu, sekaligus pemain harus menghindari halangan yang di buat oleh mobil lawan untuk menggagalkan kita mencapai garis finis. Cara mengatasi gangguan mobil musuh yang ingin menabrak kita, kita harus menghindarinya dengan berbelok ke kiri atau ke kanan. <p>
+   
+**2. Unique Value**
+    <p> "Game Race Car" adalah game yang membutuhkan keterampilan dan singkronisasi kecepatan tangan. karen pemain harus berbelok ke kiri atau ke kanan untuk menghindari banyaknya mobil lawan yang akan menabrak kita. <p>
