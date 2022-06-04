@@ -1,6 +1,6 @@
 # Game Development Life Cycle (GDLC)
 
-# -GAME RACE CAR-
+## -GAME RACE CAR-
 
 1. Initiation
    <p> Game yang kami buat berjudul GAME RACE CAR. Gendre game ini merupakan game Balapan atau Race, karakter yang terdapat dalam game ini berupa mobil, berlatar di jalan raya yang banyak mobil lainnya. <p>
@@ -13,3 +13,12 @@
 
 4. Aesthetic
     <p> Karakter dalam game ini memiliki mobil mobil yang keren, musik yang membuat enjoy dalam memainkan game ini membuat pemain lebih santai memainkannya dan efek yang memukau. <p>
+
+5. Technology
+    <p> Game yang kita buat menggunakan pygame dan game ini merupakan game yang berbasis desktop. <p>
+       
+### Pre-Production
+**GAME DESIGN DOCUMENT**
+
+#### 1. High Concept
+       Game Race Car adalah game dimana pemain harus menyetir mobil 
