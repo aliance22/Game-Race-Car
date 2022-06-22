@@ -66,3 +66,8 @@ Inheritance memiliki 5 jenis yaitu: <p>
    
 **3. Polymorphism**
    <p>Polymorphism merupakan kemampuan objek, variabel, atau fungsi yang dapat memiliki berbagai bentuk. Secara umum polymorphism dalam OOP terjadi ketika suatu SuperClass direferensikan ke dalam SubClass. Alhasil kita dapat mengembangkan sebuah program secara umum, bukan spesifik.<p>
+      
+**4. Abstraction**
+    <p>Abstraction adalah mekanisme saat proses dalam sebuah objek disembunyikan. Object tersebut hanya akan menyediakan apa yang benar-benar perlu digunakan<p>
+1. Abstrak memungkinkan Anda membuat fungsionalitas yang dapat diimplementasikan atau ditimpa oleh subkelas.
+2. Interface hanya memungkinkan anda untuk mendefinisikan fungsionalitas, bukan mengimplementasikannya. Dan sementara kelas hanya dapat memperluas satu kelas abstrak, kelas dapat memanfaatkan banyak interface.
