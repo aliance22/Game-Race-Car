@@ -42,4 +42,27 @@
        
  **1. Encapsulation**
       <p> Encapsulation merupakan proses di mana sebuah penanganan data ditempatkan di dalam wadah tunggal yang disebut sebagai class. Saat menggunakan encapsulation, data dapat diisolasi dan tidak dapat diakses langsung dari luar. Dengan begini, kita cukup menggunakan data tersebut tanpa harus tahu bagaimana proses yang terjadi sampai data tersebut bisa digunakan.<p>
+a. Public
+   <p>Ketika sebuah property atau method dinyatakan sebagai public, maka seluruh kode program di luar class bisa mengaksesnya, termasuk class turunan.<p>
+b. Private
+   <p>Jika sebuah property atau method di-set sebagai private, maka satu-satunya yang bisa mengakses adalah class itu sendiri. Class lain tidak bisa mengaksesnya, termasuk class turunan.<p>
+c. Protected
+   <p>Jika sebuah property atau method dinyatakan sebagai protected, berarti property atau method tersebut tidak bisa diakses dari luar class, namun bisa diakses oleh class itu sendiri atau turunan class tersebut.<p>
          
+**2. Inheritance**
+     <p> Inheritance memungkinkan kita untuk mendefinisikan sebuah class (induk) ke class baru (anak) dan memberi kita kesempatan untuk menggunakan member dari class yang diwariskan tersebut. Inheritance dapat didefinisikan juga sebagai proses di mana suatu objek memperoleh sifat dan perilaku dari objek lainnya.
+Ketika ingin membuat class dengan fungsi yang sudah tersedia pada class lain, kita tidak perlu lagi menulis ulang kode tersebut di dalam class yang kita buat. Cukup dengan mewarisi class tersebut maka kita bisa langsung mengaksesnya.
+Inheritance memiliki 5 jenis yaitu: <p>
+1. Single inheritance,
+   Suatu super class yang hanya memiliki satu sub class
+2. Hierarchircal inheritance,
+   Suatu super class yang memiliki beberapa sub class
+3. Multiple inheritance,
+   sebuah class yang dapat mewarisi lebih dari satu super class.
+4. Multilevel inheritance,
+   Suatu super class yang memiliki sub class , dan sub class memiliki turunan dari stuatu class
+5. Hybrid inheritance,
+   Merupakan gabungan dari single, multiple, multilevel, dan hierarchical
+   
+**3. Polymorphism**
+   <p>Polymorphism merupakan kemampuan objek, variabel, atau fungsi yang dapat memiliki berbagai bentuk. Secara umum polymorphism dalam OOP terjadi ketika suatu SuperClass direferensikan ke dalam SubClass. Alhasil kita dapat mengembangkan sebuah program secara umum, bukan spesifik.<p>
