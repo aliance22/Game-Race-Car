@@ -37,3 +37,9 @@
        
 **6. Gameplay**
     <p> Pemain diminta untuk membantu mobil tersebut balapan di jalan agar bisa mencapai garis finis, dengan cara pemain akan diminta untuk menyetir mobil tersebut dijalan yang lurus dengan berbelok ke kiri atau ke kanan agar dapat menghindari tabrakan dari mobil mobil lawan sampai waktu yang ada habis. <p>
+       
+ # 4 Pilar OOP
+       
+ **1. Encapsulation**
+      <p> Encapsulation merupakan proses di mana sebuah penanganan data ditempatkan di dalam wadah tunggal yang disebut sebagai class. Saat menggunakan encapsulation, data dapat diisolasi dan tidak dapat diakses langsung dari luar. Dengan begini, kita cukup menggunakan data tersebut tanpa harus tahu bagaimana proses yang terjadi sampai data tersebut bisa digunakan.<p>
+         
