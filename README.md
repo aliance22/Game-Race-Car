@@ -71,3 +71,24 @@ Inheritance memiliki 5 jenis yaitu: <p>
     <p>Abstraction adalah mekanisme saat proses dalam sebuah objek disembunyikan. Object tersebut hanya akan menyediakan apa yang benar-benar perlu digunakan<p>
 1. Abstrak memungkinkan Anda membuat fungsionalitas yang dapat diimplementasikan atau ditimpa oleh subkelas.
 2. Interface hanya memungkinkan anda untuk mendefinisikan fungsionalitas, bukan mengimplementasikannya. Dan sementara kelas hanya dapat memperluas satu kelas abstrak, kelas dapat memanfaatkan banyak interface.
+       
+# SOLID Principles
+       
+**1. Single Responsibility Principles**
+     <p>Setiap class hanya memiliki satu tugas, sehingga alasan untuk merubah class tersebut hanya satu, yaitu merubah tugas yang diberikan kepadanya.<p>
+        
+**2. Open Closed Principles**
+     <p>Adalah prinsip yang menyatakan bahwa Objek atau entitas itu terbuka untuk ekstensi tetapi tertutup untuk modifikasi.
+Singkatnya, sebuah class harus bisa dikembangkan tanpa memodifikasi kelas itu sendiri.<p>
+   
+**3. Liskov Substiution Principles**
+      <p>Adalah prinsip yang menyatakan bahwa ketika terdapat kelas X yang diturunin dari class Y, maka objek yang berasal dari kelas Y harus bisa menggantikan dengan objek dari kelas X.
+Singkatnya, setiap kelas turunan harus bisa menjadi pengganti untuk base class atau kelas parent nya.<p>
+   
+**4. Interface Segregation Principles**
+      <p>Adalah prinsip yang menyatakan bahwa sebuah objek client tidak boleh dipaksa untuk mengimplementasikan sebuah interface yang tidak ia gunakan. Atau objek client tidak boleh bergantung pada metode yang tidak ia gunakan.
+Sebuah interface tidak boleh menyediakan semua service untuk client objek. Satu interface hanya memiliki satu tugas spesifik untuk tiap clientnya.<p>
+   
+**5. Dependency Inversion Principles**
+      <p>Adalah prinsip yang menyetakan bahwa sebuah entitas itu bergantung pada abstraksi. Sehingga sebuah modul tingkat tinggi tidak boleh bergantung pada modul tingkat rendah, tetapi bergantung kepada abstraksi.<p>
+       
